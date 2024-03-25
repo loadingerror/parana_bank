@@ -9,4 +9,8 @@ Para a projeção foi utilizado um modelo ARIMA agregado ao método Walk Forward
 Foram feitos diversos testes estatisticos para identificar a natureza da série e definir o melhor modelo para se fazer no curto periodo de tempo.
 Também foi desenvolvido um modelo usando a lib darts com o algoritmo (lightgbm e xgb) mas não avançou e trouxe uma complexidade da qual não era a hora ainda. 
 
+O notebook foi todo desenvolvido em WSL (ambiente Linux), então procure executá-lo no mesmo ambiente. 
+Crie um .venv para facilitar o play se for o caso.
+Não deixe de visitar o requirements para verificar versoes de libs utilizadas. :)
+
 Enjoy!
